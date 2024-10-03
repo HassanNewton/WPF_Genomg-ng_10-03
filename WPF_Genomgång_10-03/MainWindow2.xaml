@@ -17,6 +17,9 @@
                 HorizontalAlignment="Left"  
                 VerticalAlignment="Top"
                 Click="OpenInfoWindow"/>
+            
+           <Button Content="InfoBox" Click="Button_Click"/>
+            
         </WrapPanel>
     </Grid>
 </Window>
